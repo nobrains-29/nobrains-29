@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 This is Archit Tripathi here.😎
+- I am currently pursuing CSE from MMMUT gorakhpur.
+- I am currently working on full stack web development.💻
+- How to reach me: dm me on instagram - `ast_09_`
 
 <!--
 **nobrains-29/nobrains-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
