@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Archit Tripathi here.😎
 - I am currently pursuing CSE from MMMUT gorakhpur.
-- I am currently working on full stack web development.💻
+- I am currently working on full stack web development (MERN).💻
 - How to reach me: dm me on instagram - `ast_09_`
 
 <!--
